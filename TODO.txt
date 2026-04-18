@@ -1,0 +1,37 @@
+TODO
+
+emailer credentials
+
+email:todo@maxim-test-sites.eu
+
+pass: gNzsy{lTG3vJEVQh
+
+
+DATABASE SERVER 
+DB_HOST=146.19.133.147
+DB_PORT=3306
+
+database name :hlqkugtb_todo
+
+database user :hlqkugtb_todo
+
+pass: K=XN)=]0Mvnd1Y.t
+
+
+
+Bigger Features
+Shared projects — invite other users to collaborate on tasks, assign tasks to each other
+Import from email — forward an email to create a task automatically
+
+What I'd recommend next for your app:
+Labels/Tags — simple, very useful for organizing
+Kanban board view — visual, looks impressive
+Dark mode — users love it, easy with Tailwind
+Dashboard with stats — nice home page showing productivity
+Activity log — track what changed, when, and by whom
+Notifications — in-app notification bell for reminders, comments, upcoming deadlines
+Calendar view — see tasks on a monthly/weekly calendar instead of just a list
+Drag & drop reorder — manually reorder tasks
+Filters — filter tasks by priority, date range, or labels
+Recurring tasks — tasks that repeat daily/weekly/monthly (e.g. "Take vitamins every day")
+Task notes/subtasks — break a task into smaller checklist items
