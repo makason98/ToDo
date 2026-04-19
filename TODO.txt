@@ -1,21 +1,4 @@
-TODO
 
-emailer credentials
-
-email:todo@maxim-test-sites.eu
-
-pass: gNzsy{lTG3vJEVQh
-
-
-DATABASE SERVER 
-DB_HOST=146.19.133.147
-DB_PORT=3306
-
-database name :hlqkugtb_todo
-
-database user :hlqkugtb_todo
-
-pass: K=XN)=]0Mvnd1Y.t
 
 
 
